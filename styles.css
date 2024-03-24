@@ -1,0 +1,243 @@
+body {
+    /*background-color: #d4e3fb;
+    background:
+    url(images/sound_motion_wave_19.jpg) center fixed;
+    background:
+    url(images/jema_lh_058_19.jpg);*/
+    background:
+    url(images/jema_lh_058_19.jpg) center fixed;
+    background-size: cover;
+    font-family: "Red Hat Display", sans-serif;
+}
+
+
+button {
+    color: whitesmoke;
+    background-color: #5d54bb;
+    border-radius: 10px;
+    box-shadow: -1px 15px 20px 0px rgb(130 133 194 / 46%);
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    margin-top: 30px;
+    width: 354px;
+    height: 49px;
+}
+
+
+button:hover {
+    background-color: #8479d5;
+    box-shadow: 10px 5px 5px rgb(0, 0, 0);
+    color:#F8F8FF; 
+    cursor: pointer; /* Pointer/hand icon */
+}
+
+
+
+h1 {
+    font-weight: 900;
+    font-size: 27px;
+   /* color: #485051;*/
+    color: #243053;
+}
+
+
+.annual-plan-section {
+    background-color: #f8f9fe;
+    border-radius: 10px;
+    width: 353px;
+    height: 99px;
+}
+
+.annual-plan-content {
+    position: relative;
+    top: 20px;
+    left: 21px;
+    width: 333px;
+    height: 60px;
+}
+
+.annual-plan-content .txt-1 {
+	width: 60px;
+}
+
+
+.attribution {
+    width: 100%;
+    padding: 20px;
+    margin-top: 42px;
+    text-align: center;
+}
+
+
+
+.content {
+  /*  background-color: whitesmoke; */
+    background-color: #fdfdfd;
+    border-radius: 22px;
+    box-shadow: 10px 10px 29px -3px rgba(10,11,39,1);
+    width: 450px;
+    height: 695px;
+}
+
+.content img {
+    border-radius: 10px 10px 0px 0px;
+}
+
+
+.element {
+    display: flex; /* Flexbox layout: Displays children in a flexible container */
+    flex-wrap: wrap; /* Allows wrapping of flex items within the container */
+    justify-content: center; /* Centers flex items along the main axis */
+    margin-top: 131px;
+}
+
+
+.icon-1 {
+    float: left;
+    margin-right: 7px;
+}
+
+
+.order-summary-section p {
+    color: #737fa7;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5em;
+}
+
+.text-area {
+    width:356px;
+    height:387px;
+    margin-top: 48px;  
+    margin-left: 48px;
+    text-align: center;
+}
+
+
+.txt-1, .txt-2 {
+    line-height: 0.5em;
+    margin-right: 10px;
+    position: relative;
+    right: 82px;
+    top: 3px;
+}
+
+
+.txt-1 {
+    color: darkblue;
+    font-weight: 900;
+}
+
+.txt-2 {
+    color: #737fa7;
+    font-weight: 600;
+    width: 79px;
+    top: -14px;
+    left: 60px;
+}
+
+
+
+.txt-3 {
+    color: blue;
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration: underline;
+    position: relative;
+    top: -55px;
+    left: 253px;
+    width: 60px;
+}
+
+.txt-3:hover {
+    /* color:#F8F8FF; */
+     color: #a071c0;
+     cursor: pointer; /* Pointer/hand icon */
+ }
+
+
+
+
+.txt-4 {
+   /* color: #958f8f;*/
+    color: #828cab;
+    margin-top: 34px;
+    font-weight: 900;
+}
+    
+
+.txt-4:hover {
+   /* color:#F8F8FF; */
+    color: #000836;
+    cursor: pointer; /* Pointer/hand icon */
+}
+
+@media (max-width: 767px) {
+    button {
+        width:279px;
+        height:49px;
+        margin-top: 25px;
+    }
+
+    h1 {
+        font-size: 23px;
+    }
+
+    .annual-plan-section {
+        width:279px;
+        height:79px;
+    }
+
+    .content {
+        width:326px;
+        height:566px;
+    }
+
+    .content-pic img {
+        width:326px;
+        height:159px;
+    }
+
+    .order-summary-section p {
+        font-size: 16px;
+    }
+
+
+    .text-area {
+        margin-top: 33px;
+        margin-left: 24px;
+        width:279px;
+        height:346px;
+    }
+
+
+    .txt-1, .txt-2, .icon-1 {
+        margin-left: -8px;
+        margin-top: -3px;
+    }
+
+    .txt-1 {
+        position: relative;
+        top: 0;
+    }
+
+
+    .txt-3 {
+        position: relative;
+        left: 185px;
+    }
+
+    
+    .txt-4 {
+        margin-top: 30px;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    .attribution {
+      display: none; /* Hides the footer */
+    }
+}
