@@ -5,7 +5,7 @@ body {
     background:
     url(images/jema_lh_058_19.jpg);*/
     background:
-    url(images/jema_lh_058_19.jpg) center fixed;
+    url(images/jema_lh_058_19.jpg) center fixed; /*freepik image*/
     background-size: cover;
     font-family: "Red Hat Display", sans-serif;
 }
@@ -33,7 +33,11 @@ button:hover {
     cursor: pointer; /* Pointer/hand icon */
 }
 
-
+cite {
+    color: whitesmoke;
+    margin-left: 600px;
+    display: none;
+}
 
 h1 {
     font-weight: 900;
@@ -64,6 +68,7 @@ h1 {
 
 
 .attribution {
+    color: ghostwhite;
     width: 100%;
     padding: 20px;
     margin-top: 42px;
@@ -237,7 +242,7 @@ h1 {
 
 
 @media only screen and (max-width: 768px) {
-    .attribution {
-      display: none; /* Hides the footer */
+    .attribution, cite {
+      display: none; /* Hides the footer & cite */
     }
 }
