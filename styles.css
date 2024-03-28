@@ -33,7 +33,7 @@ button:hover {
     cursor: pointer; /* Pointer/hand icon */
 }
 
-cite {
+figcaption {
     color: whitesmoke;
     margin-left: 600px;
     display: none;
@@ -242,7 +242,7 @@ h1 {
 
 
 @media only screen and (max-width: 768px) {
-    .attribution, cite {
+    .attribution, figcaption {
       display: none; /* Hides the footer & cite */
     }
 }
