@@ -10,7 +10,6 @@
   - [Built with](#built-with)
   - [Other tools used](#other-tools-used)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 
 
