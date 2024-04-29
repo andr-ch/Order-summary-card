@@ -107,11 +107,11 @@ display: none;
 
 ### Useful resources
 
-- [Example resource 1](https://imagecolorpicker.com/) - This is perfect if you want to extract colors from images.
+- [imagecolorpicker](https://imagecolorpicker.com/) - This is perfect if you want to extract colors from images.
 
-- [Example resource 2](https://convertingcolors.com/) -  Useful for converting between various color formats such as HSL, RGB, and more. Additionally, it offers a range of other color-related tools and apps to assist in various tasks.
+- [convertingcolors](https://convertingcolors.com/) -  Useful for converting between various color formats such as HSL, RGB, and more. Additionally, it offers a range of other color-related tools and apps to assist in various tasks.
 
-- [Example resource 3](https://www.cssmatic.com/border-radius) - Helpful for experimenting and generating CSS styles such as border radius, box shadow, and more.
+- [cssmatic](https://www.cssmatic.com/border-radius) - Helpful for experimenting and generating CSS styles such as border radius, box shadow, and more.
 
-- [Example resource 4](https://www.color-hex.com) - good resource for exploring and discovering color codes, such as hexadecimal color codes commonly used in web design and digital graphics.
+- [color-hex](https://www.color-hex.com) - good resource for exploring and discovering color codes, such as hexadecimal color codes commonly used in web design and digital graphics.
 
