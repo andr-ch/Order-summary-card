@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/andr-ch/Order-summary-card.git]
-- Live Site URL: [https://andr-ch.github.io/Order-summary-card/]
+- Solution URL: [https://github.com/npc-makinika/Order-summary-card.git]
+- Live Site URL: [https://npc-makinika.github.io/Order-summary-card/]
 
 ## My process
 
